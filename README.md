@@ -1,5 +1,5 @@
 <h1 align="center">Hi 👋, I'm Wyatt</h1>
-<h3 align="center">Hello i work on 2d game and i know python html and javascript and im working my way to C++</h3>
+<h3 align="center">Hello i work on 2d games and i know python html and javascript and im working my way to C++ and ruby</h3>
 
 - 🔭 I’m currently working on **a 2d game with my friends**
 
