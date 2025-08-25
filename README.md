@@ -1,11 +1,11 @@
 <h1 align="center">Hi 👋, I'm Wyatt</h1>
-<h3 align="center">Hello i work on 2d games and i know python html and javascript and im working my way to C++ and ruby</h3>
+<h3 align="center">Hello i work on 2d games and i know python html and javascript and im working my way to C# and ruby</h3>
 
 - 🔭 I’m currently working on **a 2d game with my friends**
 
-- 🌱 I’m currently learning **C++ and Ruby**
+- 🌱 I’m currently learning **C# and Ruby**
 
-- 🤝 I’m looking for help with **C++**
+- 🤝 I’m looking for help with **C#**
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
